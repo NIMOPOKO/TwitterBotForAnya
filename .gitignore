@@ -1,0 +1,5 @@
+build/
+dist/
+testvenv/
+*.spec
+*.png
